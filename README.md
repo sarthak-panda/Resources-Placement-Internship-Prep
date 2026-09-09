@@ -8,7 +8,6 @@ BTW, I don't think this repo will be that helpful for Quant prep, as it is mostl
 
 **Note for Internship prep**: For internship prep, you don't have to do all of these. DSA, your preferred programming language(conceptual understanding of pyhton/C++/Java/...), some trick questions(in Trick questions.pdf, like do this question in O(1) space or similar, obv for interviews), basics of ML, lil bit of SQL(sometimes asked in OA and interviews). Knowing these is sufficient. Just do leetcode and don't forget CSES standard questions(for OAs). Doing codeforces is not a necessity, but is always better(prioritize CSES over Codeforces). And please, work on your conversation skills, all.
 
-**One final thing**: Don't think too high of yourself. I have seen people, way too talented, not getting intern on D1.1 and D1.2, and even on D2. Never think like *"Oh, I am a software guy and will never do ML or Data science."* That will be your biggest, I mean, BIGGEST mistake. I am an example for that.
 
 ## 📚 Contents
 
